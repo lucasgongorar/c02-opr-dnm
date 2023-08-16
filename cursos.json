@@ -1,4 +1,4 @@
-cursos.json
+
 
 [{
 	"name": "Técnicas de Representación",
@@ -10,7 +10,7 @@ cursos.json
 	"about": "Este curso les permitirá a los estudiantes, construir un marco teórico sobre la noción de tecnología, su historia, principales conceptos y su impacto en diferentes áreas de la sociedad, particularmente en el diseño y disciplinas creativas. Se llevará a cabo desde una perspectiva reflexiva y crítica incluyendo ejercicios prácticos que les permitan integrar los conceptos del curso. Al finalizar, los estudiantes serán capaces de distinguir los aspectos culturales, éticos y técnicos más relevantes relativos a las tecnologías, en el panorama actual de acelerados cambios, pudiendo reconocer el rol potencial del diseño en la configuración de los escenarios que se abren a futuro."
 }, {
 	"name": "Laboratorio de Experimentación y Prototipado",
-	"code": "DNO1013",
+	"code": "DNO1013",            
 	"about": "Curso teórico-práctico que permite al estudiante aplicar el prototipado como una herramienta integral en el proceso de diseño, poniendo en práctica habilidades para tangibilizar ideas e incorporar información a través del uso de prototipos, incorporando como base la sustentabilidad y como objetivo final el lograr un nivel profesional en la fabricación. El estudiante formará una visión estratégica respecto al uso de prototipos en el proceso de desarrollo, incorporando la validación y la iteración como elementos clave. Se realizarán ejercicios prácticos grupales e individuales de carácter diagnóstico, formativo y sumativo, junto con el desarrollo de proyectos."
 
 }]
